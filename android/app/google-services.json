@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857532568273",
+    "firebase_url": "https://flutter-app-f7dca.firebaseio.com",
+    "project_id": "flutter-app-f7dca",
+    "storage_bucket": "flutter-app-f7dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857532568273:android:223ef5819860241ef92bf0",
+        "android_client_info": {
+          "package_name": "com.jaramapp.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857532568273-bj4kj68nd4k5nuic618qi9f2e5sr3k6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcn6E1eq6D44AihIpja9hD-senXzPPwJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857532568273-bj4kj68nd4k5nuic618qi9f2e5sr3k6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
